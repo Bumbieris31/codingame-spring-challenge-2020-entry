@@ -1,3 +1,5 @@
+# 1 pac without abilities and types
+
 import sys
 import math
 from array import *
